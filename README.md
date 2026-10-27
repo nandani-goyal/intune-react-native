@@ -67,5 +67,3 @@ intune-mobile/
 - Implement a back‑end for dynamic roommate data and matching algorithm.
 
 ---
-
-*This prototype is intentionally minimal and intended for learning or quick demos.*
